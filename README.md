@@ -1,4 +1,4 @@
-# party_keyboard
+# Party_Keyboard
 <h1>EN:</h1>  
 This program flashes the keyboard LEDs.<br/>
 Get source: https://github.com/NAPALONY-LOLO69/party_keyboard/blob/main/Source/main.cpp<br/>
